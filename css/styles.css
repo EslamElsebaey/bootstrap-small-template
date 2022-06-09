@@ -1,5 +1,6 @@
 html {
   font-size: 16px;
+  scroll-behavior: smooth;
 }
 a {
   text-transform: capitalize;
@@ -28,7 +29,7 @@ ul {
 }
 .navbar-toggler {
   color: #fff !important;
-  padding: 8px 10px;
+  padding: 5px 8px;
   background-color: #1abc9c;
   border: 1px solid #1abc9c;
 }
